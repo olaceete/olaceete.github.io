@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://olaceete.github.io/Joc/sitemap_index.txt
+Sitemap: https://olaceete.github.io/KYV/sitemap_index.txt
+Sitemap: https://olaceete.github.io/ZFp/sitemap_index.txt
+Sitemap: https://olaceete.github.io/uEb/sitemap_index.txt
